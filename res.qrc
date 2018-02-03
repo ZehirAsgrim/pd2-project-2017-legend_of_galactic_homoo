@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/BGT.jpg</file>
+        <file>img/BGB.jpg</file>
+        <file>img/BGF.jpg</file>
+        <file>img/BGW.jpg</file>
+        <file>img/BGL.jpg</file>
+        <file>img/icon.png</file>
+        <file>img/reinhard.gif</file>
+        <file>img/yang.gif</file>
+        <file>img/siegfried.gif</file>
+        <file>img/medjed.gif</file>
+        <file>img/homoo.gif</file>
+        <file>img/iserlohn.png</file>
+        <file>img/thorhammer.png</file>
+        <file>img/odin.png</file>
+        <file>img/heinessen.png</file>
+        <file>img/homou.png</file>
+        <file>img/bomb.png</file>
+        <file>img/explode.png</file>
+        <file>img/julian.png</file>
+        <file>img/mittermeyer.png</file>
+        <file>img/oskar.png</file>
+        <file>img/BGC.jpg</file>
+        <file>img/dusty.png</file>
+        <file>sound/explode.wav</file>
+        <file>sound/thoray.wav</file>
+    </qresource>
+</RCC>
